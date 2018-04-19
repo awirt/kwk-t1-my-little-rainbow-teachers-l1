@@ -8,3 +8,5 @@ tags:
 languages:
   - html
   - css
+
+parent_template: git@github.com:learn-co-curriculum/my-little-rainbow.git
